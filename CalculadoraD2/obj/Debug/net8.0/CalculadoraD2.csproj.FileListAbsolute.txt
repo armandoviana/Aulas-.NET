@@ -1,0 +1,15 @@
+E:\curso\Curso .net\CalculadoraD2\bin\Debug\net8.0\CalculadoraD2.exe
+E:\curso\Curso .net\CalculadoraD2\bin\Debug\net8.0\CalculadoraD2.deps.json
+E:\curso\Curso .net\CalculadoraD2\bin\Debug\net8.0\CalculadoraD2.runtimeconfig.json
+E:\curso\Curso .net\CalculadoraD2\bin\Debug\net8.0\CalculadoraD2.dll
+E:\curso\Curso .net\CalculadoraD2\bin\Debug\net8.0\CalculadoraD2.pdb
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\CalculadoraD2.GeneratedMSBuildEditorConfig.editorconfig
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\CalculadoraD2.AssemblyInfoInputs.cache
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\CalculadoraD2.AssemblyInfo.cs
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\CalculadoraD2.csproj.CoreCompileInputs.cache
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\CalculadoraD2.sourcelink.json
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\CalculadoraD2.dll
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\refint\CalculadoraD2.dll
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\CalculadoraD2.pdb
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\CalculadoraD2.genruntimeconfig.cache
+E:\curso\Curso .net\CalculadoraD2\obj\Debug\net8.0\ref\CalculadoraD2.dll
